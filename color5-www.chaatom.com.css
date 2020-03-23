@@ -76,7 +76,7 @@ label.label.label-primary.mini.fl {
         background-color:#e0e0e0!important
     }.hand.nosel.fl.uzr.border{
         /* edite 2020-03-23*/
-    background-color: darkviolet !important;
+    background-color: #444 !important;
     display: block !important;
     padding: 2px;
     border-bottom: 2px solid black !important;
@@ -120,3 +120,9 @@ label.label.label-primary.mini.fl {
     }div#tlogins .fl.mini.u-msg{
         margin-top:3px!important;border-radius:3px!important
     }
+    .btn-primary,.label-primary{
+    background-color:#9e4a77!important
+}.fr.borderg,.fr.borderg a{
+    border-radius:3px!important;margin-right:0!important;background-color:#9e4a77!important;border:#000 solid 0;color:#fff
+}.bg{background-color:#a06484
+}.light{background-color:#d0d0d0}
